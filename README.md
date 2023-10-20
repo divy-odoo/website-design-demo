@@ -1,1 +1,3 @@
-# website_design_exercises
+# Website design
+
+Tech : HTML, SCSS, Booststrap 5
